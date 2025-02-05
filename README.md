@@ -1,7 +1,7 @@
 
-📋 Formulário de Cadastro Completo
+📋 Formulário de Cadastro
 
-Este projeto é um formulário de cadastro completo desenvolvido com JavaScript, HTML e CSS. Ele inclui validações de entrada, máscara de dados e uma interface responsiva para melhorar a experiência do usuário.
+Este projeto é um formulário de cadastro  desenvolvido com JavaScript, HTML e CSS. Ele inclui validações de entrada, máscara de dados e uma interface responsiva para melhorar a experiência do usuário.
 
 
 🚀 Tecnologias Utilizadas
