@@ -5,15 +5,22 @@ Este projeto é um formulário de cadastro  desenvolvido com JavaScript, HTML e 
 
 
 🚀 Tecnologias Utilizadas
+
 HTML5 para a estrutura da página
+
 CSS3 para o design responsivo
+
 JavaScript para validações e interatividade
 
 
 
 🔥 Funcionalidades
 ✔️ Validação de campos obrigatórios
+
 ✔️ Máscaras para CPF
+
 ✔️ Integração com API 
+
 ✔️ Exibição de mensagens de erro personalizadas
+
 ✔️ Estilização moderna e responsiva
