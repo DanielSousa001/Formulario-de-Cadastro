@@ -15,6 +15,7 @@ JavaScript para validações e interatividade
 
 
 🔥 Funcionalidades
+
 ✔️ Validação de campos obrigatórios
 
 ✔️ Máscaras para CPF
